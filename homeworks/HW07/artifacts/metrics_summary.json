@@ -1,0 +1,20 @@
+{
+    "ds1": {
+        "silhouette": 0.38330054183984447,
+        "davies_bouldin": 1.1603490405338497,
+        "calinski_harabasz": 9427.499744196683,
+        "noise_ratio": 0.0
+    },
+    "ds2": {
+        "silhouette": 0.13618543285546955,
+        "davies_bouldin": 0.6077379542866628,
+        "calinski_harabasz": 32.77955762950482,
+        "noise_ratio": 0.061625
+    },
+    "ds4": {
+        "silhouette": 0.44736887827969146,
+        "davies_bouldin": 0.975904265483746,
+        "calinski_harabasz": 5087.688517434967,
+        "noise_ratio": 0.0
+    }
+}

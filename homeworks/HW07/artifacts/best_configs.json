@@ -1,0 +1,16 @@
+{
+    "ds1": {
+        "method": "KMeans",
+        "n_clusters": 4
+    },
+    "ds2": {
+        "method": "DBSCAN",
+        "eps": 0.4052631578947369,
+        "min_samples": 5
+    },
+    "ds4": {
+        "method": "Agglomerative",
+        "linkage": "ward",
+        "n_clusters": 5
+    }
+}
