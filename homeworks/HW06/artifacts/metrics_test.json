@@ -1,0 +1,27 @@
+{
+    "RandomForest_best": {
+        "accuracy": 0.8922222222222222,
+        "f1": 0.7601977750309024,
+        "roc_auc": 0.9287328490718322
+    },
+    "GradientBoosting_controlled": {
+        "accuracy": 0.87,
+        "f1": 0.7089552238805971,
+        "roc_auc": 0.8994011498719596
+    },
+    "DecisionTree_controlled": {
+        "accuracy": 0.8094444444444444,
+        "f1": 0.5652724968314322,
+        "roc_auc": 0.809273109536763
+    },
+    "LogisticRegression": {
+        "accuracy": 0.8119444444444445,
+        "f1": 0.5606748864373783,
+        "roc_auc": 0.7976914875596609
+    },
+    "DummyClassifier": {
+        "accuracy": 0.7375,
+        "f1": 0.0,
+        "roc_auc": 0.5
+    }
+}
